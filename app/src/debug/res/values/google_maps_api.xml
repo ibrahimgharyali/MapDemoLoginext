@@ -1,0 +1,4 @@
+<resources>
+    <!--Alternatively, we can save the key in gradle file and use it from there in Manifest "${MAPS_API_KEY}" -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBgI8eYP9EgozXoS8xoGlZ-jmj1hJX9qjY</string>
+</resources>

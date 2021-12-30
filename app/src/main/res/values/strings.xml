@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MapDemoLoginext</string>
+    <string name="title_activity_maps">MapDemoLoginext</string>
+    <string name="title_activity_splash">MapDemoLoginext</string>
+    <string name="title_activity_sign">eSignature</string>
+    <string name="sign_button">e-Signature</string>
+    <string name="photo_button">Photo</string>
+    <string name="dummy_content">LogiNext Demo</string>
+    <string name="save">Save</string>
+    <string name="camera">Camera</string>
+    <string name="select_image">Select Image</string>
+</resources>
